@@ -1,0 +1,29 @@
+{
+  "name": "roulettebot",
+  "version": "1.0.0",
+  "description": "Discord bot that lets users play roulette",
+  "main": "main.js",
+  "dependencies": {
+    "chart": "github:jstrace/chart",
+    "discord.js": "^11.0.0",
+    "fast-csv": "^2.4.0",
+    "file-encryptor": "^0.1.1",
+    "node-opus": "^0.2.4",
+    "stats-lite": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dannyiss"
+  },
+  "keywords": [
+    "Discord",
+    "bot",
+    "roulette"
+  ],
+  "author": "dannyiss",
+  "license": "ISC"
+}
